@@ -1,0 +1,4627 @@
+{
+  "c7345894": {
+    "id": "c7345894",
+    "createdAt": "2026-05-18T07:49:00.359Z",
+    "state": {
+      "profileInput": "test",
+      "steamId64": "76561198000000000",
+      "games": [
+        {
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "playtime_forever": 90,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900_2x.jpg"
+        }
+      ],
+      "rows": [
+        {
+          "id": "tier-s",
+          "label": "????? ??????? ???????? ?????? ????",
+          "color": "#ff5d73",
+          "gameIds": [
+            730
+          ]
+        }
+      ],
+      "savedAt": "2026-05-18T07:49:00.359Z"
+    }
+  },
+  "f0e9c52c": {
+    "id": "f0e9c52c",
+    "createdAt": "2026-05-18T07:58:44.973Z",
+    "state": {
+      "profileInput": "https://steamcommunity.com/profiles/76561198987468126",
+      "steamId64": "76561198987468126",
+      "games": [
+        {
+          "appid": 2667970,
+          "name": "100 Asian Cats",
+          "playtime_forever": 11,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2667970/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 282800,
+          "name": "100% Orange Juice",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 214490,
+          "name": "Alien: Isolation",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/214490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 663240,
+          "name": "All You Can Eat",
+          "playtime_forever": 21,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/663240/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 250620,
+          "name": "Among the Sleep",
+          "playtime_forever": 249,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 945360,
+          "name": "Among Us",
+          "playtime_forever": 73,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2901520,
+          "name": "An alt girl for skoof",
+          "playtime_forever": 176,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2901520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1902490,
+          "name": "Aperture Desk Job",
+          "playtime_forever": 51,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1902490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 280740,
+          "name": "Aperture Tag: The Paint Gun Testing Initiative",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/280740/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2907190,
+          "name": "April 24th",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2907190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1202900,
+          "name": "Assemble with Care",
+          "playtime_forever": 123,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1202900/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1230140,
+          "name": "ATRI -My Dear Moments-",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1230140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2379780,
+          "name": "Balatro",
+          "playtime_forever": 1328,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1086940,
+          "name": "Baldur's Gate 3",
+          "playtime_forever": 7709,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1168660,
+          "name": "Barro 2020",
+          "playtime_forever": 30,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1168660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 107100,
+          "name": "Bastion",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/107100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 208650,
+          "name": "Batman™: Arkham Knight",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/208650/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 475550,
+          "name": "Beholder",
+          "playtime_forever": 254,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/475550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 761620,
+          "name": "Beholder 2",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/761620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1570070,
+          "name": "Beholder 3",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1570070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 960990,
+          "name": "Beyond: Two Souls",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 8870,
+          "name": "BioShock Infinite",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3419430,
+          "name": "Bongo Cat",
+          "playtime_forever": 57737,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3419430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 684410,
+          "name": "Bridge Constructor Portal",
+          "playtime_forever": 59,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/684410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2835570,
+          "name": "Buckshot Roulette",
+          "playtime_forever": 704,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835570/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3028500,
+          "name": "Cakey's Twisted Bakery",
+          "playtime_forever": 8,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3028500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 893180,
+          "name": "Catherine Classic",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/893180/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1555110,
+          "name": "Chasing Tails -A Promise in the Snow-",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1555110/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 518060,
+          "name": "Chess Ultra",
+          "playtime_forever": 262,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/518060/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1337890,
+          "name": "Choice of Life: Middle Ages",
+          "playtime_forever": 510,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1337890/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1573630,
+          "name": "Choice of Life: Middle Ages 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1573630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 597170,
+          "name": "Clone Drone in the Danger Zone",
+          "playtime_forever": 4908,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/597170/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1454400,
+          "name": "Cookie Clicker",
+          "playtime_forever": 3055,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1454400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "playtime_forever": 57959,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1782210,
+          "name": "Crab Game",
+          "playtime_forever": 11,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1782210/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 386180,
+          "name": "Crossout",
+          "playtime_forever": 757,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/386180/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 268910,
+          "name": "Cuphead",
+          "playtime_forever": 915,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1091500,
+          "name": "Cyberpunk 2077",
+          "playtime_forever": 12015,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 332950,
+          "name": "Dark Deception",
+          "playtime_forever": 39,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/332950/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 368650,
+          "name": "Dark Echo",
+          "playtime_forever": 275,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/368650/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 274520,
+          "name": "Darkwood",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/274520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1422450,
+          "name": "Deadlock",
+          "playtime_forever": 80,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 466240,
+          "name": "Deceit",
+          "playtime_forever": 69,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/466240/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1222140,
+          "name": "Detroit: Become Human",
+          "playtime_forever": 440,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 230230,
+          "name": "Divinity: Original Sin (Classic)",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/230230/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 435150,
+          "name": "Divinity: Original Sin 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/435150/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 373420,
+          "name": "Divinity: Original Sin Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/373420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 322330,
+          "name": "Don't Starve Together",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 782330,
+          "name": "DOOM Eternal",
+          "playtime_forever": 235,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1562430,
+          "name": "DREDGE",
+          "playtime_forever": 414,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1562430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 239140,
+          "name": "Dying Light",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/239140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253880,
+          "name": "Earth 2150 Trilogy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253880/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259300,
+          "name": "Earth 2150: Lost Souls",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259280,
+          "name": "Earth 2150: The Moon Project",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259280/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 289130,
+          "name": "ENDLESS™ Legend",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/289130/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 227300,
+          "name": "Euro Truck Simulator 2",
+          "playtime_forever": 4981,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 331470,
+          "name": "Everlasting Summer",
+          "playtime_forever": 1152,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1800790,
+          "name": "Father's Day",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1800790/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1504740,
+          "name": "Find Yourself",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1504740/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 383870,
+          "name": "Firewatch",
+          "playtime_forever": 67,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 319510,
+          "name": "Five Nights at Freddy's",
+          "playtime_forever": 25,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/319510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2990,
+          "name": "FlatOut 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2990/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1293830,
+          "name": "Forza Horizon 4",
+          "playtime_forever": 1806,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2707940,
+          "name": "FPV Kamikaze Drone",
+          "playtime_forever": 166,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2707940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 323190,
+          "name": "Frostpunk",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 240720,
+          "name": "Getting Over It with Bennett Foddy",
+          "playtime_forever": 144,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/240720/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1593500,
+          "name": "God of War",
+          "playtime_forever": 1843,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2322010,
+          "name": "God of War Ragnarök",
+          "playtime_forever": 381,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 365450,
+          "name": "Hacknet",
+          "playtime_forever": 13,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/365450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220,
+          "name": "Half-Life 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 320,
+          "name": "Half-Life 2: Deathmatch",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 360,
+          "name": "Half-Life Deathmatch: Source",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 394360,
+          "name": "Hearts of Iron IV",
+          "playtime_forever": 514,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1289310,
+          "name": "Helltaker",
+          "playtime_forever": 198,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1289310/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 963690,
+          "name": "Hentai Girl Hime",
+          "playtime_forever": 129,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/963690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 990080,
+          "name": "Hogwarts Legacy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 367520,
+          "name": "Hollow Knight",
+          "playtime_forever": 4466,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1271700,
+          "name": "HOT WHEELS UNLEASHED™",
+          "playtime_forever": 180,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1271700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 219150,
+          "name": "Hotline Miami",
+          "playtime_forever": 280,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/219150/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 274170,
+          "name": "Hotline Miami 2: Wrong Number",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/274170/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 613100,
+          "name": "House Flipper",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 383270,
+          "name": "Hue",
+          "playtime_forever": 684,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/383270/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 339800,
+          "name": "HuniePop",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/339800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2717260,
+          "name": "I'm counting to 6...",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2717260/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1373960,
+          "name": "INDIKA",
+          "playtime_forever": 1043,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1373960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1092790,
+          "name": "Inscryption",
+          "playtime_forever": 826,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1426210,
+          "name": "It Takes Two",
+          "playtime_forever": 426,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 531510,
+          "name": "Just Shapes & Beats",
+          "playtime_forever": 30,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/531510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2955840,
+          "name": "Kitchen Wars",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2955840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1554260,
+          "name": "Knightly Passions",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1554260/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3209480,
+          "name": "Last Report",
+          "playtime_forever": 134,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3209480/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3097560,
+          "name": "Liar's Bar",
+          "playtime_forever": 272,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3097560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 48000,
+          "name": "LIMBO",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/48000/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 424840,
+          "name": "Little Nightmares",
+          "playtime_forever": 134,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/424840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2149010,
+          "name": "Little Nightmares Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2149010/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 860510,
+          "name": "Little Nightmares II",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/860510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2532550,
+          "name": "LIZARDS MUST DIE",
+          "playtime_forever": 118,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2532550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1258590,
+          "name": "Locked Up",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1258590/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1742930,
+          "name": "Looking Up I See Only A Ceiling",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1742930/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 353330,
+          "name": "Love at First Sight",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/353330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 615530,
+          "name": "Love, Money, Rock'n'Roll",
+          "playtime_forever": 1048,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/615530/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 879510,
+          "name": "Lucy Got Problems",
+          "playtime_forever": 14,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/879510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1061910,
+          "name": "Metal: Hellsinger",
+          "playtime_forever": 770,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1061910/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 286690,
+          "name": "Metro 2033 Redux",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 412020,
+          "name": "Metro Exodus",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1449560,
+          "name": "Metro Exodus Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 686060,
+          "name": "Mewgenics",
+          "playtime_forever": 881,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/686060/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 753220,
+          "name": "Mhakna Gramura and Fairy Bell",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/753220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1392820,
+          "name": "Milk inside a bag of milk inside a bag of milk",
+          "playtime_forever": 35,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1392820/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1604000,
+          "name": "Milk outside a bag of milk outside a bag of milk",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1604000/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 481870,
+          "name": "Mini Thief",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/481870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2527500,
+          "name": "MiSide",
+          "playtime_forever": 148,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 976310,
+          "name": "Mortal Kombat 11",
+          "playtime_forever": 219,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2475490,
+          "name": "Mouthwashing",
+          "playtime_forever": 173,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2475490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 561450,
+          "name": "Mutant Fighting Cup 2",
+          "playtime_forever": 296,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/561450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1419170,
+          "name": "My Singing Monsters",
+          "playtime_forever": 13,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1419170/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 264380,
+          "name": "Narcissu 1st & 2nd",
+          "playtime_forever": 180,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264380/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 349040,
+          "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+          "playtime_forever": 139,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1283190,
+          "name": "Neighbours back From Hell",
+          "playtime_forever": 252,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 260750,
+          "name": "Neighbours from Hell",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/260750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 260770,
+          "name": "Neighbours from Hell 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/260770/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 788100,
+          "name": "Neon Abyss",
+          "playtime_forever": 581,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/788100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2277330,
+          "name": "Neon Abyss 2 Playtest",
+          "playtime_forever": 16,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2277330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253330,
+          "name": "Neverending Nightmares",
+          "playtime_forever": 87,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3180070,
+          "name": "No, I'm not a Human",
+          "playtime_forever": 347,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 224480,
+          "name": "Octodad: Dadliest Catch",
+          "playtime_forever": 81,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/224480/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 238320,
+          "name": "Outlast",
+          "playtime_forever": 177,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/238320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 414700,
+          "name": "Outlast 2",
+          "playtime_forever": 117,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/414700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 457140,
+          "name": "Oxygen Not Included",
+          "playtime_forever": 121,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 455400,
+          "name": "PAC-MAN 256",
+          "playtime_forever": 219,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/455400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1458140,
+          "name": "Pacific Drive",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1458140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1836160,
+          "name": "PANELKI",
+          "playtime_forever": 77,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1836160/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 505230,
+          "name": "Pathologic 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/505230/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 588690,
+          "name": "Peace, Death!",
+          "playtime_forever": 42,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/588690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 246620,
+          "name": "Plague Inc: Evolved",
+          "playtime_forever": 163,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/246620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3590,
+          "name": "Plants vs. Zombies: Game of the Year",
+          "playtime_forever": 67,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3590/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1922560,
+          "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+          "playtime_forever": 339,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1922560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 405640,
+          "name": "Pony Island",
+          "playtime_forever": 796,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/405640/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 400,
+          "name": "Portal",
+          "playtime_forever": 937,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 620,
+          "name": "Portal 2",
+          "playtime_forever": 3034,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2012840,
+          "name": "Portal with RTX",
+          "playtime_forever": 52,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2012840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1210320,
+          "name": "Potion Craft: Alchemist Simulator",
+          "playtime_forever": 50,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1210320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1837220,
+          "name": "Psalm 5:9-13",
+          "playtime_forever": 33,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1837220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "playtime_forever": 52,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 611500,
+          "name": "Quake Champions",
+          "playtime_forever": 166,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/611500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253030,
+          "name": "Race The Sun",
+          "playtime_forever": 46,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253030/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 648800,
+          "name": "Raft",
+          "playtime_forever": 9,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1997680,
+          "name": "REFLEXIA Prototype ver.",
+          "playtime_forever": 101,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1997680/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 418370,
+          "name": "Resident Evil 7 Biohazard",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1236300,
+          "name": "Resident Evil Re:Verse",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1236300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1196590,
+          "name": "Resident Evil Village",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 41700,
+          "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/41700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2427430,
+          "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2427430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 20510,
+          "name": "S.T.A.L.K.E.R.: Clear Sky",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/20510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2427420,
+          "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2427420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 4500,
+          "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+          "playtime_forever": 2,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/4500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2427410,
+          "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2427410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2249160,
+          "name": "September 7th",
+          "playtime_forever": 82,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2249160/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2756820,
+          "name": "Sex of Thrones 👑 Prologue",
+          "playtime_forever": 21,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2756820/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 433340,
+          "name": "Slime Rancher",
+          "playtime_forever": 1196,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/433340/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1657630,
+          "name": "Slime Rancher 2",
+          "playtime_forever": 367,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 282140,
+          "name": "SOMA",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1326470,
+          "name": "Sons Of The Forest",
+          "playtime_forever": 1047,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 629520,
+          "name": "Soundpad",
+          "playtime_forever": 18,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/629520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1213700,
+          "name": "Spirit of the North",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1213700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 17390,
+          "name": "Spore",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/17390/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1172380,
+          "name": "STAR WARS Jedi: Fallen Order™ ",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1237950,
+          "name": "STAR WARS™ Battlefront™ II",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237950/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1222730,
+          "name": "STAR WARS™: Squadrons",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222730/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 252410,
+          "name": "SteamWorld Dig",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/252410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 674940,
+          "name": "Stick Fight: The Game",
+          "playtime_forever": 290,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/674940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3626750,
+          "name": "STRAY GIRL 🔞",
+          "playtime_forever": 82,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3626750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 779290,
+          "name": "Stygian: Reign of the Old Ones",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/779290/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 264710,
+          "name": "Subnautica",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1609080,
+          "name": "Summer of '58",
+          "playtime_forever": 8,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1609080/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 673750,
+          "name": "Super Bunny Man",
+          "playtime_forever": 105,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/673750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1180660,
+          "name": "Tell Me Why",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1180660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 105600,
+          "name": "Terraria",
+          "playtime_forever": 714,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 792300,
+          "name": "The Beast Inside",
+          "playtime_forever": 80,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/792300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2378900,
+          "name": "The Coffin of Andy and Leyley",
+          "playtime_forever": 1242,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2378900/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 242760,
+          "name": "The Forest",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 510420,
+          "name": "The Hex",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/510420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 305620,
+          "name": "The Long Dark",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/305620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 589780,
+          "name": "The Red Strings Club",
+          "playtime_forever": 47,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/589780/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 292030,
+          "name": "The Witcher 3: Wild Hunt",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1421250,
+          "name": "Tiny Bunny",
+          "playtime_forever": 113,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1421250/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 206440,
+          "name": "To the Moon",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/206440/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1444480,
+          "name": "Turing Complete",
+          "playtime_forever": 32,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1444480/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 386940,
+          "name": "Ultimate Chicken Horse",
+          "playtime_forever": 6,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/386940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 391540,
+          "name": "Undertale",
+          "playtime_forever": 1059,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1016920,
+          "name": "Unrailed!",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1016920/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2141770,
+          "name": "URBO",
+          "playtime_forever": 122,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2141770/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 331750,
+          "name": "WALL E",
+          "playtime_forever": 31,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 431960,
+          "name": "Wallpaper Engine",
+          "playtime_forever": 2730,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 489630,
+          "name": "Warhammer 40,000: Gladius - Relics of War",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/489630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2239550,
+          "name": "Watch Dogs: Legion",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2239550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 243470,
+          "name": "Watch_Dogs",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/243470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 447040,
+          "name": "Watch_Dogs 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/447040/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1158890,
+          "name": "White Shadows",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158890/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3690010,
+          "name": "Who's at the door?",
+          "playtime_forever": 176,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3690010/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 617670,
+          "name": "Zup! S",
+          "playtime_forever": 5,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/617670/library_600x900_2x.jpg"
+        }
+      ],
+      "rows": [
+        {
+          "id": "tier-s",
+          "label": "S",
+          "color": "#ff5d73",
+          "gameIds": []
+        },
+        {
+          "id": "tier-a",
+          "label": "A",
+          "color": "#ffb84d",
+          "gameIds": [
+            2667970
+          ]
+        },
+        {
+          "id": "tier-b",
+          "label": "B",
+          "color": "#5ad8a6",
+          "gameIds": [
+            214490,
+            1902490
+          ]
+        },
+        {
+          "id": "tier-c",
+          "label": "C",
+          "color": "#56c5ff",
+          "gameIds": [
+            945360,
+            250620
+          ]
+        },
+        {
+          "id": "tier-d",
+          "label": "D",
+          "color": "#9b8cff",
+          "gameIds": [
+            280740,
+            2907190,
+            1202900,
+            1230140,
+            2379780,
+            1086940,
+            1168660,
+            107100,
+            208650,
+            475550
+          ]
+        },
+        {
+          "id": "tier-f",
+          "label": "F",
+          "color": "#8b98a9",
+          "gameIds": []
+        }
+      ],
+      "savedAt": "2026-05-18T07:58:44.973Z"
+    }
+  },
+  "7019f72c": {
+    "id": "7019f72c",
+    "createdAt": "2026-05-18T08:02:33.116Z",
+    "state": {
+      "profileInput": "https://steamcommunity.com/profiles/76561198987468126",
+      "steamId64": "76561198987468126",
+      "games": [
+        {
+          "appid": 2667970,
+          "name": "100 Asian Cats",
+          "playtime_forever": 11,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2667970/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 282800,
+          "name": "100% Orange Juice",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 214490,
+          "name": "Alien: Isolation",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/214490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 663240,
+          "name": "All You Can Eat",
+          "playtime_forever": 21,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/663240/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 250620,
+          "name": "Among the Sleep",
+          "playtime_forever": 249,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 945360,
+          "name": "Among Us",
+          "playtime_forever": 73,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2901520,
+          "name": "An alt girl for skoof",
+          "playtime_forever": 176,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2901520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1902490,
+          "name": "Aperture Desk Job",
+          "playtime_forever": 51,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1902490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 280740,
+          "name": "Aperture Tag: The Paint Gun Testing Initiative",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/280740/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2907190,
+          "name": "April 24th",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2907190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1202900,
+          "name": "Assemble with Care",
+          "playtime_forever": 123,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1202900/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1230140,
+          "name": "ATRI -My Dear Moments-",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1230140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2379780,
+          "name": "Balatro",
+          "playtime_forever": 1328,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1086940,
+          "name": "Baldur's Gate 3",
+          "playtime_forever": 7709,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1168660,
+          "name": "Barro 2020",
+          "playtime_forever": 30,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1168660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 107100,
+          "name": "Bastion",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/107100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 208650,
+          "name": "Batman™: Arkham Knight",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/208650/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 475550,
+          "name": "Beholder",
+          "playtime_forever": 254,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/475550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 761620,
+          "name": "Beholder 2",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/761620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1570070,
+          "name": "Beholder 3",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1570070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 960990,
+          "name": "Beyond: Two Souls",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 8870,
+          "name": "BioShock Infinite",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3419430,
+          "name": "Bongo Cat",
+          "playtime_forever": 57737,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3419430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 684410,
+          "name": "Bridge Constructor Portal",
+          "playtime_forever": 59,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/684410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2835570,
+          "name": "Buckshot Roulette",
+          "playtime_forever": 704,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835570/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3028500,
+          "name": "Cakey's Twisted Bakery",
+          "playtime_forever": 8,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3028500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 893180,
+          "name": "Catherine Classic",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/893180/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1555110,
+          "name": "Chasing Tails -A Promise in the Snow-",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1555110/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 518060,
+          "name": "Chess Ultra",
+          "playtime_forever": 262,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/518060/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1337890,
+          "name": "Choice of Life: Middle Ages",
+          "playtime_forever": 510,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1337890/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1573630,
+          "name": "Choice of Life: Middle Ages 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1573630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 597170,
+          "name": "Clone Drone in the Danger Zone",
+          "playtime_forever": 4908,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/597170/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1454400,
+          "name": "Cookie Clicker",
+          "playtime_forever": 3055,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1454400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "playtime_forever": 57959,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1782210,
+          "name": "Crab Game",
+          "playtime_forever": 11,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1782210/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 386180,
+          "name": "Crossout",
+          "playtime_forever": 757,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/386180/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 268910,
+          "name": "Cuphead",
+          "playtime_forever": 915,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1091500,
+          "name": "Cyberpunk 2077",
+          "playtime_forever": 12015,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 332950,
+          "name": "Dark Deception",
+          "playtime_forever": 39,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/332950/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 368650,
+          "name": "Dark Echo",
+          "playtime_forever": 275,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/368650/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 274520,
+          "name": "Darkwood",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/274520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1422450,
+          "name": "Deadlock",
+          "playtime_forever": 80,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 466240,
+          "name": "Deceit",
+          "playtime_forever": 69,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/466240/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1222140,
+          "name": "Detroit: Become Human",
+          "playtime_forever": 440,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 230230,
+          "name": "Divinity: Original Sin (Classic)",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/230230/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 435150,
+          "name": "Divinity: Original Sin 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/435150/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 373420,
+          "name": "Divinity: Original Sin Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/373420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 322330,
+          "name": "Don't Starve Together",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 782330,
+          "name": "DOOM Eternal",
+          "playtime_forever": 235,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1562430,
+          "name": "DREDGE",
+          "playtime_forever": 414,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1562430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 239140,
+          "name": "Dying Light",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/239140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253880,
+          "name": "Earth 2150 Trilogy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253880/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259300,
+          "name": "Earth 2150: Lost Souls",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259280,
+          "name": "Earth 2150: The Moon Project",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259280/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 289130,
+          "name": "ENDLESS™ Legend",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/289130/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 227300,
+          "name": "Euro Truck Simulator 2",
+          "playtime_forever": 4981,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 331470,
+          "name": "Everlasting Summer",
+          "playtime_forever": 1152,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1800790,
+          "name": "Father's Day",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1800790/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1504740,
+          "name": "Find Yourself",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1504740/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 383870,
+          "name": "Firewatch",
+          "playtime_forever": 67,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 319510,
+          "name": "Five Nights at Freddy's",
+          "playtime_forever": 25,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/319510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2990,
+          "name": "FlatOut 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2990/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1293830,
+          "name": "Forza Horizon 4",
+          "playtime_forever": 1806,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2707940,
+          "name": "FPV Kamikaze Drone",
+          "playtime_forever": 166,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2707940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 323190,
+          "name": "Frostpunk",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 240720,
+          "name": "Getting Over It with Bennett Foddy",
+          "playtime_forever": 144,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/240720/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1593500,
+          "name": "God of War",
+          "playtime_forever": 1843,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2322010,
+          "name": "God of War Ragnarök",
+          "playtime_forever": 381,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 365450,
+          "name": "Hacknet",
+          "playtime_forever": 13,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/365450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220,
+          "name": "Half-Life 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 320,
+          "name": "Half-Life 2: Deathmatch",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 360,
+          "name": "Half-Life Deathmatch: Source",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 394360,
+          "name": "Hearts of Iron IV",
+          "playtime_forever": 514,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1289310,
+          "name": "Helltaker",
+          "playtime_forever": 198,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1289310/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 963690,
+          "name": "Hentai Girl Hime",
+          "playtime_forever": 129,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/963690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 990080,
+          "name": "Hogwarts Legacy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 367520,
+          "name": "Hollow Knight",
+          "playtime_forever": 4466,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1271700,
+          "name": "HOT WHEELS UNLEASHED™",
+          "playtime_forever": 180,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1271700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 219150,
+          "name": "Hotline Miami",
+          "playtime_forever": 280,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/219150/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 274170,
+          "name": "Hotline Miami 2: Wrong Number",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/274170/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 613100,
+          "name": "House Flipper",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 383270,
+          "name": "Hue",
+          "playtime_forever": 684,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/383270/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 339800,
+          "name": "HuniePop",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/339800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2717260,
+          "name": "I'm counting to 6...",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2717260/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1373960,
+          "name": "INDIKA",
+          "playtime_forever": 1043,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1373960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1092790,
+          "name": "Inscryption",
+          "playtime_forever": 826,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1426210,
+          "name": "It Takes Two",
+          "playtime_forever": 426,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 531510,
+          "name": "Just Shapes & Beats",
+          "playtime_forever": 30,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/531510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2955840,
+          "name": "Kitchen Wars",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2955840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1554260,
+          "name": "Knightly Passions",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1554260/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3209480,
+          "name": "Last Report",
+          "playtime_forever": 134,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3209480/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3097560,
+          "name": "Liar's Bar",
+          "playtime_forever": 272,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3097560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 48000,
+          "name": "LIMBO",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/48000/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 424840,
+          "name": "Little Nightmares",
+          "playtime_forever": 134,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/424840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2149010,
+          "name": "Little Nightmares Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2149010/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 860510,
+          "name": "Little Nightmares II",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/860510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2532550,
+          "name": "LIZARDS MUST DIE",
+          "playtime_forever": 118,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2532550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1258590,
+          "name": "Locked Up",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1258590/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1742930,
+          "name": "Looking Up I See Only A Ceiling",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1742930/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 353330,
+          "name": "Love at First Sight",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/353330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 615530,
+          "name": "Love, Money, Rock'n'Roll",
+          "playtime_forever": 1048,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/615530/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 879510,
+          "name": "Lucy Got Problems",
+          "playtime_forever": 14,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/879510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1061910,
+          "name": "Metal: Hellsinger",
+          "playtime_forever": 770,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1061910/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 286690,
+          "name": "Metro 2033 Redux",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 412020,
+          "name": "Metro Exodus",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1449560,
+          "name": "Metro Exodus Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 686060,
+          "name": "Mewgenics",
+          "playtime_forever": 881,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/686060/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 753220,
+          "name": "Mhakna Gramura and Fairy Bell",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/753220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1392820,
+          "name": "Milk inside a bag of milk inside a bag of milk",
+          "playtime_forever": 35,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1392820/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1604000,
+          "name": "Milk outside a bag of milk outside a bag of milk",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1604000/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 481870,
+          "name": "Mini Thief",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/481870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2527500,
+          "name": "MiSide",
+          "playtime_forever": 148,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 976310,
+          "name": "Mortal Kombat 11",
+          "playtime_forever": 219,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2475490,
+          "name": "Mouthwashing",
+          "playtime_forever": 173,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2475490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 561450,
+          "name": "Mutant Fighting Cup 2",
+          "playtime_forever": 296,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/561450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1419170,
+          "name": "My Singing Monsters",
+          "playtime_forever": 13,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1419170/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 264380,
+          "name": "Narcissu 1st & 2nd",
+          "playtime_forever": 180,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264380/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 349040,
+          "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+          "playtime_forever": 139,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/349040/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1283190,
+          "name": "Neighbours back From Hell",
+          "playtime_forever": 252,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 260750,
+          "name": "Neighbours from Hell",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/260750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 260770,
+          "name": "Neighbours from Hell 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/260770/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 788100,
+          "name": "Neon Abyss",
+          "playtime_forever": 581,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/788100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2277330,
+          "name": "Neon Abyss 2 Playtest",
+          "playtime_forever": 16,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2277330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253330,
+          "name": "Neverending Nightmares",
+          "playtime_forever": 87,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3180070,
+          "name": "No, I'm not a Human",
+          "playtime_forever": 347,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3180070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 224480,
+          "name": "Octodad: Dadliest Catch",
+          "playtime_forever": 81,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/224480/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 238320,
+          "name": "Outlast",
+          "playtime_forever": 177,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/238320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 414700,
+          "name": "Outlast 2",
+          "playtime_forever": 117,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/414700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 457140,
+          "name": "Oxygen Not Included",
+          "playtime_forever": 121,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 455400,
+          "name": "PAC-MAN 256",
+          "playtime_forever": 219,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/455400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1458140,
+          "name": "Pacific Drive",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1458140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1836160,
+          "name": "PANELKI",
+          "playtime_forever": 77,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1836160/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 505230,
+          "name": "Pathologic 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/505230/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 588690,
+          "name": "Peace, Death!",
+          "playtime_forever": 42,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/588690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 246620,
+          "name": "Plague Inc: Evolved",
+          "playtime_forever": 163,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/246620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3590,
+          "name": "Plants vs. Zombies: Game of the Year",
+          "playtime_forever": 67,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3590/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1922560,
+          "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+          "playtime_forever": 339,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1922560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 405640,
+          "name": "Pony Island",
+          "playtime_forever": 796,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/405640/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 400,
+          "name": "Portal",
+          "playtime_forever": 937,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 620,
+          "name": "Portal 2",
+          "playtime_forever": 3034,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2012840,
+          "name": "Portal with RTX",
+          "playtime_forever": 52,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2012840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1210320,
+          "name": "Potion Craft: Alchemist Simulator",
+          "playtime_forever": 50,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1210320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1837220,
+          "name": "Psalm 5:9-13",
+          "playtime_forever": 33,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1837220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "playtime_forever": 52,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 611500,
+          "name": "Quake Champions",
+          "playtime_forever": 166,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/611500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253030,
+          "name": "Race The Sun",
+          "playtime_forever": 46,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253030/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 648800,
+          "name": "Raft",
+          "playtime_forever": 9,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1997680,
+          "name": "REFLEXIA Prototype ver.",
+          "playtime_forever": 101,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1997680/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 418370,
+          "name": "Resident Evil 7 Biohazard",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1236300,
+          "name": "Resident Evil Re:Verse",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1236300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1196590,
+          "name": "Resident Evil Village",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 41700,
+          "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/41700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2427430,
+          "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2427430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 20510,
+          "name": "S.T.A.L.K.E.R.: Clear Sky",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/20510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2427420,
+          "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2427420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 4500,
+          "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+          "playtime_forever": 2,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/4500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2427410,
+          "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2427410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2249160,
+          "name": "September 7th",
+          "playtime_forever": 82,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2249160/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2756820,
+          "name": "Sex of Thrones 👑 Prologue",
+          "playtime_forever": 21,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2756820/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 433340,
+          "name": "Slime Rancher",
+          "playtime_forever": 1196,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/433340/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1657630,
+          "name": "Slime Rancher 2",
+          "playtime_forever": 367,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 282140,
+          "name": "SOMA",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1326470,
+          "name": "Sons Of The Forest",
+          "playtime_forever": 1047,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 629520,
+          "name": "Soundpad",
+          "playtime_forever": 18,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/629520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1213700,
+          "name": "Spirit of the North",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1213700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 17390,
+          "name": "Spore",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/17390/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1172380,
+          "name": "STAR WARS Jedi: Fallen Order™ ",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1237950,
+          "name": "STAR WARS™ Battlefront™ II",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237950/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1222730,
+          "name": "STAR WARS™: Squadrons",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222730/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 252410,
+          "name": "SteamWorld Dig",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/252410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 674940,
+          "name": "Stick Fight: The Game",
+          "playtime_forever": 290,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/674940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3626750,
+          "name": "STRAY GIRL 🔞",
+          "playtime_forever": 82,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3626750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 779290,
+          "name": "Stygian: Reign of the Old Ones",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/779290/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 264710,
+          "name": "Subnautica",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1609080,
+          "name": "Summer of '58",
+          "playtime_forever": 8,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1609080/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 673750,
+          "name": "Super Bunny Man",
+          "playtime_forever": 105,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/673750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1180660,
+          "name": "Tell Me Why",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1180660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 105600,
+          "name": "Terraria",
+          "playtime_forever": 714,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 792300,
+          "name": "The Beast Inside",
+          "playtime_forever": 80,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/792300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2378900,
+          "name": "The Coffin of Andy and Leyley",
+          "playtime_forever": 1242,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2378900/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 242760,
+          "name": "The Forest",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 510420,
+          "name": "The Hex",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/510420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 305620,
+          "name": "The Long Dark",
+          "playtime_forever": 1,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/305620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 589780,
+          "name": "The Red Strings Club",
+          "playtime_forever": 47,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/589780/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 292030,
+          "name": "The Witcher 3: Wild Hunt",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1421250,
+          "name": "Tiny Bunny",
+          "playtime_forever": 113,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1421250/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 206440,
+          "name": "To the Moon",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/206440/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1444480,
+          "name": "Turing Complete",
+          "playtime_forever": 32,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1444480/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 386940,
+          "name": "Ultimate Chicken Horse",
+          "playtime_forever": 6,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/386940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 391540,
+          "name": "Undertale",
+          "playtime_forever": 1059,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1016920,
+          "name": "Unrailed!",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1016920/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2141770,
+          "name": "URBO",
+          "playtime_forever": 122,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2141770/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 331750,
+          "name": "WALL E",
+          "playtime_forever": 31,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 431960,
+          "name": "Wallpaper Engine",
+          "playtime_forever": 2730,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 489630,
+          "name": "Warhammer 40,000: Gladius - Relics of War",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/489630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2239550,
+          "name": "Watch Dogs: Legion",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2239550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 243470,
+          "name": "Watch_Dogs",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/243470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 447040,
+          "name": "Watch_Dogs 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/447040/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1158890,
+          "name": "White Shadows",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158890/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3690010,
+          "name": "Who's at the door?",
+          "playtime_forever": 176,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3690010/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 617670,
+          "name": "Zup! S",
+          "playtime_forever": 5,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/617670/library_600x900_2x.jpg"
+        }
+      ],
+      "rows": [
+        {
+          "id": "tier-s",
+          "label": "S",
+          "color": "#381519",
+          "gameIds": [
+            282800,
+            663240,
+            2901520,
+            761620
+          ]
+        },
+        {
+          "id": "tier-a",
+          "label": "A",
+          "color": "#ffb84d",
+          "gameIds": [
+            2667970
+          ]
+        },
+        {
+          "id": "tier-b",
+          "label": "B",
+          "color": "#5ad8a6",
+          "gameIds": [
+            214490,
+            1902490
+          ]
+        },
+        {
+          "id": "tier-c",
+          "label": "C",
+          "color": "#56c5ff",
+          "gameIds": [
+            945360,
+            250620,
+            3028500
+          ]
+        },
+        {
+          "id": "tier-d",
+          "label": "D",
+          "color": "#9b8cff",
+          "gameIds": [
+            280740,
+            2907190,
+            1202900,
+            1230140,
+            2379780,
+            1086940,
+            1168660,
+            107100,
+            208650,
+            475550
+          ]
+        },
+        {
+          "id": "tier-f",
+          "label": "F",
+          "color": "#8b98a9",
+          "gameIds": [
+            893180
+          ]
+        }
+      ],
+      "savedAt": "2026-05-18T08:02:33.116Z"
+    }
+  },
+  "98a7dc83": {
+    "id": "98a7dc83",
+    "createdAt": "2026-05-18T08:29:27.832Z",
+    "state": {
+      "profileInput": "https://steamcommunity.com/profiles/76561199103734438",
+      "steamId64": "76561199103734438",
+      "games": [
+        {
+          "appid": 282800,
+          "name": "100% Orange Juice",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 646270,
+          "name": "60 Parsecs!",
+          "playtime_forever": 1950,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/646270/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1012880,
+          "name": "60 Seconds! Reatomized",
+          "playtime_forever": 1011,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1012880/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 503560,
+          "name": "911 Operator",
+          "playtime_forever": 34,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/503560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 250620,
+          "name": "Among the Sleep",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 346110,
+          "name": "ARK: Survival Evolved",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 407530,
+          "name": "ARK: Survival Of The Fittest",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/407530/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 361420,
+          "name": "ASTRONEER",
+          "playtime_forever": 7735,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/361420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 753660,
+          "name": "AtmaSphere",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/753660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1086940,
+          "name": "Baldur's Gate 3",
+          "playtime_forever": 10659,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1990740,
+          "name": "Barro GT",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1990740/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1307090,
+          "name": "Barro Racing",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1307090/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 211050,
+          "name": "Battle vs Chess",
+          "playtime_forever": 15,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/211050/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 544610,
+          "name": "Battlestar Galactica Deadlock",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/544610/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 620980,
+          "name": "Beat Saber",
+          "playtime_forever": 208,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 582660,
+          "name": "Black Desert",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 49520,
+          "name": "Borderlands 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/49520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 217490,
+          "name": "Borderlands 2 RU",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/217490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 738520,
+          "name": "Breathedge",
+          "playtime_forever": 1838,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/738520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2835570,
+          "name": "Buckshot Roulette",
+          "playtime_forever": 370,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835570/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3028500,
+          "name": "Cakey's Twisted Bakery",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3028500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 870780,
+          "name": "Control Ultimate Edition",
+          "playtime_forever": 1923,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "playtime_forever": 34029,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1313140,
+          "name": "Cult of the Lamb",
+          "playtime_forever": 5266,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 268910,
+          "name": "Cuphead",
+          "playtime_forever": 81,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1091500,
+          "name": "Cyberpunk 2077",
+          "playtime_forever": 4630,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 588650,
+          "name": "Dead Cells",
+          "playtime_forever": 368,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 384310,
+          "name": "Dead In Bermuda",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/384310/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1422450,
+          "name": "Deadlock",
+          "playtime_forever": 542,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 214340,
+          "name": "Deponia",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/214340/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 569610,
+          "name": "Distant Space",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/569610/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 322330,
+          "name": "Don't Starve Together",
+          "playtime_forever": 4466,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 442070,
+          "name": "Drawful 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/442070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2859390,
+          "name": "Drive Beyond Horizons Demo",
+          "playtime_forever": 479,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2859390/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253880,
+          "name": "Earth 2150 Trilogy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253880/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259300,
+          "name": "Earth 2150: Lost Souls",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259280,
+          "name": "Earth 2150: The Moon Project",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259280/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 289130,
+          "name": "ENDLESS™ Legend",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/289130/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 331470,
+          "name": "Everlasting Summer",
+          "playtime_forever": 131,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1025440,
+          "name": "Fantasy General II",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025440/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220240,
+          "name": "Far Cry® 3",
+          "playtime_forever": 1254,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1368870,
+          "name": "Field of Glory II: Medieval",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1368870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 323190,
+          "name": "Frostpunk",
+          "playtime_forever": 945,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 240720,
+          "name": "Getting Over It with Bennett Foddy",
+          "playtime_forever": 329,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/240720/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1245430,
+          "name": "Golden Light",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 551370,
+          "name": "Gravity Sketch VR",
+          "playtime_forever": 21,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/551370/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2543510,
+          "name": "GUNTOUCHABLES",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2543510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220,
+          "name": "Half-Life 2",
+          "playtime_forever": 34,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 320,
+          "name": "Half-Life 2: Deathmatch",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 360,
+          "name": "Half-Life Deathmatch: Source",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 546560,
+          "name": "Half-Life: Alyx",
+          "playtime_forever": 17,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 394360,
+          "name": "Hearts of Iron IV",
+          "playtime_forever": 2479,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1608450,
+          "name": "Hellslave",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1608450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1659040,
+          "name": "HITMAN World of Assassination",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 367520,
+          "name": "Hollow Knight",
+          "playtime_forever": 11088,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1030300,
+          "name": "Hollow Knight: Silksong",
+          "playtime_forever": 4916,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 613100,
+          "name": "House Flipper",
+          "playtime_forever": 453,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 477160,
+          "name": "Human Fall Flat",
+          "playtime_forever": 174,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/477160/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 339800,
+          "name": "HuniePop",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/339800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1456200,
+          "name": "Initial Drift Online",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1456200/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1092790,
+          "name": "Inscryption",
+          "playtime_forever": 2694,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1703140,
+          "name": "Isle of Jura",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1703140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 448280,
+          "name": "Job Simulator",
+          "playtime_forever": 318,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/448280/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2955840,
+          "name": "Kitchen Wars",
+          "playtime_forever": 42,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2955840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 550,
+          "name": "Left 4 Dead 2",
+          "playtime_forever": 196,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3097560,
+          "name": "Liar's Bar",
+          "playtime_forever": 287,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3097560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 860510,
+          "name": "Little Nightmares II",
+          "playtime_forever": 3,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/860510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1507190,
+          "name": "Machinika Museum",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1507190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3716600,
+          "name": "Mage Arena",
+          "playtime_forever": 89,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3716600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 286690,
+          "name": "Metro 2033 Redux",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 686060,
+          "name": "Mewgenics",
+          "playtime_forever": 6937,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/686060/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 481870,
+          "name": "Mini Thief",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/481870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2527500,
+          "name": "MiSide",
+          "playtime_forever": 615,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1451940,
+          "name": "NEEDY STREAMER OVERLOAD",
+          "playtime_forever": 490,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1451940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 881100,
+          "name": "Noita",
+          "playtime_forever": 187,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/881100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1200580,
+          "name": "One Gun Guy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1200580/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3550490,
+          "name": "Overcome Your Fears - Caretaker",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3550490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 457140,
+          "name": "Oxygen Not Included",
+          "playtime_forever": 8374,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1458140,
+          "name": "Pacific Drive",
+          "playtime_forever": 590,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1458140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1118200,
+          "name": "People Playground",
+          "playtime_forever": 25280,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118200/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3144950,
+          "name": "Pet Lands",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3144950/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 400,
+          "name": "Portal",
+          "playtime_forever": 163,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 620,
+          "name": "Portal 2",
+          "playtime_forever": 4490,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1210320,
+          "name": "Potion Craft: Alchemist Simulator",
+          "playtime_forever": 6200,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1210320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1836120,
+          "name": "QUICKERFLAK",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1836120/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3241660,
+          "name": "R.E.P.O.",
+          "playtime_forever": 1290,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 648800,
+          "name": "Raft",
+          "playtime_forever": 6037,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1144200,
+          "name": "Ready or Not",
+          "playtime_forever": 884,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 294100,
+          "name": "RimWorld",
+          "playtime_forever": 77,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220700,
+          "name": "RPG Maker VX Ace",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 526870,
+          "name": "Satisfactory",
+          "playtime_forever": 420,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 700330,
+          "name": "SCP: Secret Laboratory",
+          "playtime_forever": 37639,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/700330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 387990,
+          "name": "Scrap Mechanic",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/387990/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1657630,
+          "name": "Slime Rancher 2",
+          "playtime_forever": 2833,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1326470,
+          "name": "Sons Of The Forest",
+          "playtime_forever": 1206,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1348700,
+          "name": "Spice&Wolf VR2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1348700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 393380,
+          "name": "Squad",
+          "playtime_forever": 368,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/393380/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 774941,
+          "name": "Squad - Public Testing",
+          "playtime_forever": 5,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/774941/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 413150,
+          "name": "Stardew Valley",
+          "playtime_forever": 6429,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 252410,
+          "name": "SteamWorld Dig",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/252410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 264710,
+          "name": "Subnautica",
+          "playtime_forever": 2897,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1962700,
+          "name": "Subnautica 2",
+          "playtime_forever": 456,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1962700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 848450,
+          "name": "Subnautica: Below Zero",
+          "playtime_forever": 2308,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/848450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 673750,
+          "name": "Super Bunny Man",
+          "playtime_forever": 103,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/673750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 518920,
+          "name": "Surgeon Simulator: Experience Reality",
+          "playtime_forever": 161,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/518920/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1167630,
+          "name": "Teardown",
+          "playtime_forever": 2185,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1167630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 105600,
+          "name": "Terraria",
+          "playtime_forever": 19975,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1601570,
+          "name": "The Alters",
+          "playtime_forever": 3057,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1601570/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 451980,
+          "name": "The Body VR: Journey Inside a Cell",
+          "playtime_forever": 13,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/451980/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 460960,
+          "name": "The Deed: Dynasty",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/460960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2073850,
+          "name": "THE FINALS",
+          "playtime_forever": 74,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 242760,
+          "name": "The Forest",
+          "playtime_forever": 3440,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2828500,
+          "name": "The Jackbox Megapicker",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2828500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 305620,
+          "name": "The Long Dark",
+          "playtime_forever": 646,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/305620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1830840,
+          "name": "The Planet Crafter: Prologue",
+          "playtime_forever": 8,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1830840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1222670,
+          "name": "The Sims™ 4",
+          "playtime_forever": 1183,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 704850,
+          "name": "Thief Simulator",
+          "playtime_forever": 1587,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/704850/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1421250,
+          "name": "Tiny Bunny",
+          "playtime_forever": 1121,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1421250/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1281930,
+          "name": "tModLoader",
+          "playtime_forever": 1092,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 508440,
+          "name": "Totally Accurate Battle Simulator",
+          "playtime_forever": 5301,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/508440/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 546090,
+          "name": "Trip to Vinelands",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/546090/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 701470,
+          "name": "TTV2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/701470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 357070,
+          "name": "UBERMOSH",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/357070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 386940,
+          "name": "Ultimate Chicken Horse",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/386940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1035510,
+          "name": "Ultimate Zombie Defense",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1035510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 304930,
+          "name": "Unturned",
+          "playtime_forever": 356,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/304930/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 438100,
+          "name": "VRChat",
+          "playtime_forever": 11,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/438100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 431960,
+          "name": "Wallpaper Engine",
+          "playtime_forever": 1488,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 552500,
+          "name": "Warhammer: Vermintide 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/552500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 373600,
+          "name": "Weapon of Choice",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/373600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2747770,
+          "name": "Wednesdays",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2747770/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2752710,
+          "name": "WHAT THE PAK?!",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2752710/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1697700,
+          "name": "Who's Lila?",
+          "playtime_forever": 53,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1697700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1134700,
+          "name": "Wild Terra 2: New Lands",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1134700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 597760,
+          "name": "Yuppie Psycho",
+          "playtime_forever": 727,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/597760/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3121110,
+          "name": "Zort",
+          "playtime_forever": 102,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3121110/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 617670,
+          "name": "Zup! S",
+          "playtime_forever": 262,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/617670/library_600x900_2x.jpg"
+        }
+      ],
+      "rows": [
+        {
+          "id": "tier-s",
+          "label": "S",
+          "color": "#ff5d73",
+          "gameIds": [
+            1086940,
+            361420,
+            1091500,
+            367520,
+            1030300,
+            686060,
+            2527500,
+            457140,
+            1118200,
+            1210320,
+            648800,
+            1348700,
+            264710,
+            1962700,
+            848450,
+            105600,
+            1281930,
+            431960,
+            700330
+          ]
+        },
+        {
+          "id": "tier-a",
+          "label": "A",
+          "color": "#ffb84d",
+          "gameIds": [
+            646270,
+            1012880,
+            1313140,
+            323190,
+            1092790,
+            448280,
+            3097560,
+            286690,
+            1451940,
+            400,
+            620,
+            3241660,
+            1144200,
+            1657630,
+            413150,
+            518920,
+            1167630,
+            1601570,
+            242760,
+            1326470,
+            305620,
+            1222670,
+            1421250,
+            304930,
+            597760
+          ]
+        },
+        {
+          "id": "tier-b",
+          "label": "B",
+          "color": "#5ad8a6",
+          "gameIds": [
+            620980,
+            2835570,
+            322330,
+            240720,
+            546560,
+            394360,
+            477160,
+            550,
+            1458140,
+            526870,
+            393380,
+            774941,
+            508440,
+            1697700
+          ]
+        },
+        {
+          "id": "tier-c",
+          "label": "C",
+          "color": "#56c5ff",
+          "gameIds": [
+            613100,
+            2955840,
+            673750,
+            704850,
+            870780,
+            268910,
+            1422450,
+            2859390,
+            220240,
+            3716600
+          ]
+        },
+        {
+          "id": "tier-d",
+          "label": "D",
+          "color": "#9b8cff",
+          "gameIds": [
+            738520,
+            588650,
+            881100,
+            617670
+          ]
+        },
+        {
+          "id": "tier-f",
+          "label": "F",
+          "color": "#8b98a9",
+          "gameIds": [
+            503560,
+            730,
+            3121110
+          ]
+        },
+        {
+          "id": "tier-custom-1779092137643",
+          "label": "не играл",
+          "color": "#facc15",
+          "gameIds": [
+            282800,
+            250620,
+            346110,
+            407530,
+            753660,
+            1990740,
+            1307090,
+            211050,
+            544610,
+            582660,
+            49520,
+            217490,
+            3028500,
+            384310,
+            214340,
+            569610,
+            442070,
+            253880,
+            259300,
+            259280,
+            289130,
+            331470,
+            1025440,
+            1368870,
+            1245430,
+            551370,
+            2543510,
+            220,
+            320,
+            360,
+            1608450,
+            1659040,
+            339800,
+            1456200,
+            1703140,
+            860510,
+            1507190,
+            481870,
+            1200580,
+            3550490,
+            3144950,
+            1836120,
+            294100,
+            220700,
+            387990,
+            252410,
+            451980,
+            460960,
+            2073850,
+            2828500,
+            1830840,
+            546090,
+            701470,
+            357070,
+            386940,
+            1035510,
+            438100,
+            552500,
+            373600,
+            2747770,
+            2752710,
+            1134700
+          ]
+        }
+      ],
+      "savedAt": "2026-05-18T08:29:27.832Z"
+    }
+  },
+  "72b6c911": {
+    "id": "72b6c911",
+    "createdAt": "2026-05-18T08:47:23.265Z",
+    "state": {
+      "profileInput": "https://steamcommunity.com/profiles/76561199103734438",
+      "steamId64": "76561199103734438",
+      "games": [
+        {
+          "appid": 282800,
+          "name": "100% Orange Juice",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 646270,
+          "name": "60 Parsecs!",
+          "playtime_forever": 1950,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/646270/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1012880,
+          "name": "60 Seconds! Reatomized",
+          "playtime_forever": 1011,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1012880/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 503560,
+          "name": "911 Operator",
+          "playtime_forever": 34,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/503560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 250620,
+          "name": "Among the Sleep",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 346110,
+          "name": "ARK: Survival Evolved",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 407530,
+          "name": "ARK: Survival Of The Fittest",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/407530/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 361420,
+          "name": "ASTRONEER",
+          "playtime_forever": 7735,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/361420/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 753660,
+          "name": "AtmaSphere",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/753660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1086940,
+          "name": "Baldur's Gate 3",
+          "playtime_forever": 10659,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1990740,
+          "name": "Barro GT",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1990740/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1307090,
+          "name": "Barro Racing",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1307090/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 211050,
+          "name": "Battle vs Chess",
+          "playtime_forever": 15,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/211050/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 544610,
+          "name": "Battlestar Galactica Deadlock",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/544610/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 620980,
+          "name": "Beat Saber",
+          "playtime_forever": 208,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 582660,
+          "name": "Black Desert",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 49520,
+          "name": "Borderlands 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/49520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 217490,
+          "name": "Borderlands 2 RU",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/217490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 738520,
+          "name": "Breathedge",
+          "playtime_forever": 1838,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/738520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2835570,
+          "name": "Buckshot Roulette",
+          "playtime_forever": 370,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835570/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3028500,
+          "name": "Cakey's Twisted Bakery",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3028500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 870780,
+          "name": "Control Ultimate Edition",
+          "playtime_forever": 1923,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "playtime_forever": 34029,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1313140,
+          "name": "Cult of the Lamb",
+          "playtime_forever": 5266,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 268910,
+          "name": "Cuphead",
+          "playtime_forever": 81,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1091500,
+          "name": "Cyberpunk 2077",
+          "playtime_forever": 4630,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 588650,
+          "name": "Dead Cells",
+          "playtime_forever": 368,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 384310,
+          "name": "Dead In Bermuda",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/384310/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1422450,
+          "name": "Deadlock",
+          "playtime_forever": 542,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 214340,
+          "name": "Deponia",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/214340/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 569610,
+          "name": "Distant Space",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/569610/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 322330,
+          "name": "Don't Starve Together",
+          "playtime_forever": 4466,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 442070,
+          "name": "Drawful 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/442070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2859390,
+          "name": "Drive Beyond Horizons Demo",
+          "playtime_forever": 479,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2859390/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 253880,
+          "name": "Earth 2150 Trilogy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253880/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259300,
+          "name": "Earth 2150: Lost Souls",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 259280,
+          "name": "Earth 2150: The Moon Project",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/259280/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 289130,
+          "name": "ENDLESS™ Legend",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/289130/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 331470,
+          "name": "Everlasting Summer",
+          "playtime_forever": 131,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1025440,
+          "name": "Fantasy General II",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025440/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220240,
+          "name": "Far Cry® 3",
+          "playtime_forever": 1254,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1368870,
+          "name": "Field of Glory II: Medieval",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1368870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 323190,
+          "name": "Frostpunk",
+          "playtime_forever": 945,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 240720,
+          "name": "Getting Over It with Bennett Foddy",
+          "playtime_forever": 329,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/240720/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1245430,
+          "name": "Golden Light",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245430/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 551370,
+          "name": "Gravity Sketch VR",
+          "playtime_forever": 21,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/551370/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2543510,
+          "name": "GUNTOUCHABLES",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2543510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220,
+          "name": "Half-Life 2",
+          "playtime_forever": 34,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 320,
+          "name": "Half-Life 2: Deathmatch",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 360,
+          "name": "Half-Life Deathmatch: Source",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 546560,
+          "name": "Half-Life: Alyx",
+          "playtime_forever": 17,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 394360,
+          "name": "Hearts of Iron IV",
+          "playtime_forever": 2479,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1608450,
+          "name": "Hellslave",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1608450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1659040,
+          "name": "HITMAN World of Assassination",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 367520,
+          "name": "Hollow Knight",
+          "playtime_forever": 11088,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1030300,
+          "name": "Hollow Knight: Silksong",
+          "playtime_forever": 4916,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 613100,
+          "name": "House Flipper",
+          "playtime_forever": 453,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 477160,
+          "name": "Human Fall Flat",
+          "playtime_forever": 174,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/477160/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 339800,
+          "name": "HuniePop",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/339800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1456200,
+          "name": "Initial Drift Online",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1456200/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1092790,
+          "name": "Inscryption",
+          "playtime_forever": 2694,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1703140,
+          "name": "Isle of Jura",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1703140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 448280,
+          "name": "Job Simulator",
+          "playtime_forever": 318,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/448280/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2955840,
+          "name": "Kitchen Wars",
+          "playtime_forever": 42,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2955840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 550,
+          "name": "Left 4 Dead 2",
+          "playtime_forever": 196,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3097560,
+          "name": "Liar's Bar",
+          "playtime_forever": 287,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3097560/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 860510,
+          "name": "Little Nightmares II",
+          "playtime_forever": 3,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/860510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1507190,
+          "name": "Machinika Museum",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1507190/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3716600,
+          "name": "Mage Arena",
+          "playtime_forever": 89,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3716600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 286690,
+          "name": "Metro 2033 Redux",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 686060,
+          "name": "Mewgenics",
+          "playtime_forever": 6937,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/686060/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 481870,
+          "name": "Mini Thief",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/481870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2527500,
+          "name": "MiSide",
+          "playtime_forever": 615,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1451940,
+          "name": "NEEDY STREAMER OVERLOAD",
+          "playtime_forever": 490,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1451940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 881100,
+          "name": "Noita",
+          "playtime_forever": 187,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/881100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1200580,
+          "name": "One Gun Guy",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1200580/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3550490,
+          "name": "Overcome Your Fears - Caretaker",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3550490/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 457140,
+          "name": "Oxygen Not Included",
+          "playtime_forever": 8374,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1458140,
+          "name": "Pacific Drive",
+          "playtime_forever": 590,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1458140/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1118200,
+          "name": "People Playground",
+          "playtime_forever": 25280,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118200/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3144950,
+          "name": "Pet Lands",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3144950/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 400,
+          "name": "Portal",
+          "playtime_forever": 163,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 620,
+          "name": "Portal 2",
+          "playtime_forever": 4490,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1210320,
+          "name": "Potion Craft: Alchemist Simulator",
+          "playtime_forever": 6200,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1210320/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1836120,
+          "name": "QUICKERFLAK",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1836120/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3241660,
+          "name": "R.E.P.O.",
+          "playtime_forever": 1290,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 648800,
+          "name": "Raft",
+          "playtime_forever": 6037,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1144200,
+          "name": "Ready or Not",
+          "playtime_forever": 884,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 294100,
+          "name": "RimWorld",
+          "playtime_forever": 77,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 220700,
+          "name": "RPG Maker VX Ace",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 526870,
+          "name": "Satisfactory",
+          "playtime_forever": 420,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 700330,
+          "name": "SCP: Secret Laboratory",
+          "playtime_forever": 37639,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/700330/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 387990,
+          "name": "Scrap Mechanic",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/387990/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1657630,
+          "name": "Slime Rancher 2",
+          "playtime_forever": 2833,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1326470,
+          "name": "Sons Of The Forest",
+          "playtime_forever": 1206,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1348700,
+          "name": "Spice&Wolf VR2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1348700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 393380,
+          "name": "Squad",
+          "playtime_forever": 368,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/393380/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 774941,
+          "name": "Squad - Public Testing",
+          "playtime_forever": 5,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/774941/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 413150,
+          "name": "Stardew Valley",
+          "playtime_forever": 6429,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 252410,
+          "name": "SteamWorld Dig",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/252410/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 264710,
+          "name": "Subnautica",
+          "playtime_forever": 2897,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1962700,
+          "name": "Subnautica 2",
+          "playtime_forever": 456,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1962700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 848450,
+          "name": "Subnautica: Below Zero",
+          "playtime_forever": 2308,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/848450/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 673750,
+          "name": "Super Bunny Man",
+          "playtime_forever": 103,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/673750/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 518920,
+          "name": "Surgeon Simulator: Experience Reality",
+          "playtime_forever": 161,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/518920/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1167630,
+          "name": "Teardown",
+          "playtime_forever": 2185,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1167630/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 105600,
+          "name": "Terraria",
+          "playtime_forever": 19975,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1601570,
+          "name": "The Alters",
+          "playtime_forever": 3057,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1601570/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 451980,
+          "name": "The Body VR: Journey Inside a Cell",
+          "playtime_forever": 13,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/451980/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 460960,
+          "name": "The Deed: Dynasty",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/460960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2073850,
+          "name": "THE FINALS",
+          "playtime_forever": 74,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 242760,
+          "name": "The Forest",
+          "playtime_forever": 3440,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2828500,
+          "name": "The Jackbox Megapicker",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2828500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 305620,
+          "name": "The Long Dark",
+          "playtime_forever": 646,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/305620/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1830840,
+          "name": "The Planet Crafter: Prologue",
+          "playtime_forever": 8,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1830840/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1222670,
+          "name": "The Sims™ 4",
+          "playtime_forever": 1183,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 704850,
+          "name": "Thief Simulator",
+          "playtime_forever": 1587,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/704850/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1421250,
+          "name": "Tiny Bunny",
+          "playtime_forever": 1121,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1421250/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1281930,
+          "name": "tModLoader",
+          "playtime_forever": 1092,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 508440,
+          "name": "Totally Accurate Battle Simulator",
+          "playtime_forever": 5301,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/508440/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 546090,
+          "name": "Trip to Vinelands",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/546090/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 701470,
+          "name": "TTV2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/701470/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 357070,
+          "name": "UBERMOSH",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/357070/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 386940,
+          "name": "Ultimate Chicken Horse",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/386940/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1035510,
+          "name": "Ultimate Zombie Defense",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1035510/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 304930,
+          "name": "Unturned",
+          "playtime_forever": 356,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/304930/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 438100,
+          "name": "VRChat",
+          "playtime_forever": 11,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/438100/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 431960,
+          "name": "Wallpaper Engine",
+          "playtime_forever": 1488,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 552500,
+          "name": "Warhammer: Vermintide 2",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/552500/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 373600,
+          "name": "Weapon of Choice",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/373600/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2747770,
+          "name": "Wednesdays",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2747770/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 2752710,
+          "name": "WHAT THE PAK?!",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2752710/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1697700,
+          "name": "Who's Lila?",
+          "playtime_forever": 53,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1697700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 1134700,
+          "name": "Wild Terra 2: New Lands",
+          "playtime_forever": 0,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1134700/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 597760,
+          "name": "Yuppie Psycho",
+          "playtime_forever": 727,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/597760/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 3121110,
+          "name": "Zort",
+          "playtime_forever": 102,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3121110/library_600x900_2x.jpg"
+        },
+        {
+          "appid": 617670,
+          "name": "Zup! S",
+          "playtime_forever": 262,
+          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/617670/library_600x900_2x.jpg"
+        }
+      ],
+      "rows": [
+        {
+          "id": "tier-s",
+          "label": "S",
+          "color": "#ff5d73",
+          "gameIds": [
+            1086940,
+            361420,
+            1091500,
+            367520,
+            1030300,
+            686060,
+            2527500,
+            457140,
+            1118200,
+            1210320,
+            648800,
+            1348700,
+            264710,
+            1962700,
+            848450,
+            105600,
+            1281930,
+            1313140,
+            700330,
+            730,
+            431960
+          ]
+        },
+        {
+          "id": "tier-a",
+          "label": "A",
+          "color": "#ffb84d",
+          "gameIds": [
+            646270,
+            1012880,
+            323190,
+            1092790,
+            448280,
+            3097560,
+            286690,
+            1451940,
+            400,
+            620,
+            3241660,
+            1144200,
+            1657630,
+            413150,
+            518920,
+            1167630,
+            1601570,
+            242760,
+            1326470,
+            305620,
+            1222670,
+            1421250,
+            304930,
+            597760,
+            508440
+          ]
+        },
+        {
+          "id": "tier-b",
+          "label": "B",
+          "color": "#5ad8a6",
+          "gameIds": [
+            620980,
+            2835570,
+            322330,
+            240720,
+            546560,
+            394360,
+            477160,
+            550,
+            1458140,
+            393380,
+            774941,
+            1697700,
+            1659040,
+            526870
+          ]
+        },
+        {
+          "id": "tier-c",
+          "label": "C",
+          "color": "#56c5ff",
+          "gameIds": [
+            613100,
+            2955840,
+            673750,
+            704850,
+            268910,
+            1422450,
+            2859390,
+            220240,
+            386940,
+            870780,
+            3716600
+          ]
+        },
+        {
+          "id": "tier-d",
+          "label": "D",
+          "color": "#9b8cff",
+          "gameIds": [
+            738520,
+            588650,
+            881100,
+            617670,
+            331470
+          ]
+        },
+        {
+          "id": "tier-f",
+          "label": "F",
+          "color": "#8b98a9",
+          "gameIds": [
+            503560,
+            3121110
+          ]
+        },
+        {
+          "id": "tier-custom-1779092137643",
+          "label": "не играл",
+          "color": "#facc15",
+          "gameIds": [
+            282800,
+            250620,
+            346110,
+            407530,
+            753660,
+            1990740,
+            1307090,
+            211050,
+            544610,
+            582660,
+            49520,
+            217490,
+            3028500,
+            384310,
+            214340,
+            569610,
+            442070,
+            253880,
+            259300,
+            259280,
+            289130,
+            1025440,
+            1368870,
+            1245430,
+            551370,
+            2543510,
+            220,
+            320,
+            360,
+            1608450,
+            339800,
+            1456200,
+            1703140,
+            860510,
+            1507190,
+            481870,
+            1200580,
+            3550490,
+            3144950,
+            1836120,
+            294100,
+            220700,
+            387990,
+            252410,
+            451980,
+            460960,
+            2073850,
+            2828500,
+            1830840,
+            701470,
+            357070,
+            1035510,
+            438100,
+            552500,
+            373600,
+            2747770,
+            2752710,
+            1134700,
+            546090
+          ]
+        }
+      ],
+      "savedAt": "2026-05-18T08:47:23.265Z"
+    }
+  }
+}
